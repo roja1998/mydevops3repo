@@ -1,3 +1,5 @@
 this is created using ui
 
 this is the new line from newbranch
+
+this line is from master branch
