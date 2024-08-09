@@ -2,3 +2,5 @@ this is created using vim editor
 
 
 this is the changes to show the difference in github to local
+
+this is new line to merge in local from my newbranch to master branch
