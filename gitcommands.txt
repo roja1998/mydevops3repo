@@ -1,0 +1,79 @@
+how to install git and create a GitHub account
+create a local git repository
+add a new file to the repo
+add a file to the staging environment
+create a new branch
+create a new respository on GitHub
+push a branch to GitHub
+create a pull request
+merge a pr
+get changes on GitHub back to computer
+
+
+guthub
+Scenario - mobile app- teammembers- Shivani,roja,samyukta,balaji, mallesh
+
+vscode- configure with username and gmail.
+
+git config --global user.name “Roja”
+git config --global user.email “roja@gmail.com”
+
+git init
+
+git add filename
+
+git commit -m "commit message"
+
+git restore --staged filename
+
+git commit -m "saving samplefile2.txt"
+
+git diff filename - differences between the working directory and the staging area
+
+git commit -a -m "to save all in one go"
+
+git rm -f .\samplefile2.txt
+
+git rm --cached filename
+
+git log
+
+git commit --amend
+
+git tag -a tagname -m message
+
+   2 git status
+   3 git commit -m "save the changes"
+   4 git add .\samplefile2.txt
+   5 git status
+   6 clear
+   7 git clone https://github.com/roja1998/mydevops3repo.git
+   8 git status
+   9 git add .
+  10 git status
+  11 git commit -m "saving the changes to see the diff in github"
+  12 git remote -v
+  13 git push origin remote
+  14 git push
+  15  git push --set-upstream origin mynewbranch
+  16 git branch
+  17 git add .\samplefile1.txt
+  18 git commit -m "saving changes to store in master"
+  19 git checkout master
+  20 git pull
+  21 git fetch
+  22 git clone https://github.com/roja1998/mydevops3repo.git
+  23 git checkout main
+  24 git checkout --track origin/main
+  25 git branch
+  26 git checkout mynewbranch
+  27 git checkout main
+  28 git merge origin/mynewbranch
+  29 git checkout mynewbranch
+  30 git checkout main
+  31 git merge mynewbranch
+
+
+
+
+
