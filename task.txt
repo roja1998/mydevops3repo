@@ -1,0 +1,19 @@
+This is the task to be performed individually by tomorrow
+
+1. clone my repository to your local computer(if already present then just leave it as it is)
+2. checkout to main branch and create a branch with (shivani_task1)
+3. create a file and write a content to that file
+4. save and commit and push to GitHub.
+5. create a pull request and merge your changes to main branch (in GitHub)
+6. after merging your changes in GitHub, go to your local computer and checkout to main branch.
+7. Now your local main branch and remote(GitHub) main branch is not having same content , because your remote(GitHub) main branch is merged with your newbranch and having updated information. so, to make your remote main branch and local main branch content to be same, do git pull to get the updated data in your local repository.
+8. after you get the updated data, now again checkout to your newbranch and create another file in your new branch.
+9. save and commit your changes in your new branch.
+10. again checkout to main branch, now your main your branch is not having your newbranch changes, so merge your changes in main branch.
+
+repeat these steps at least for 5 times, to familiarise with the commands and observe the difference.
+
+with this steps, you will know how to merge in (remote repository)GitHub and how to merge branches in local repository.
+Using this strategy, you can know how to get the updated data whenever any one do  changes in remote repository.
+
+ 
